@@ -1,0 +1,2 @@
+# Development/testing only - not installed on Vercel, not needed at runtime.
+pytest
